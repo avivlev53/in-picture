@@ -1,0 +1,30 @@
+body {
+    background-color: pink;
+}
+div {
+    margin-top: 10px;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    margin:  0 auto;
+    border: 2px solid red;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.btn {
+    margin: 10px;
+}
+.btn-continer :hover {
+    cursor: pointer;
+}
+.restart:hover {
+    cursor: pointer;
+    background-color: black;
+    color: aliceblue;
+}
